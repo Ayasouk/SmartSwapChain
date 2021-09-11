@@ -1,0 +1,9 @@
+[submodule "ssc-front"]
+	path = ssc-front
+	url = https://github.com/Ayasouk/ssc-front.git
+[submodule "ssc-back-api"]
+	path = ssc-back-api
+	url = https://github.com/Ayasouk/ssc-back-api.git
+[submodule "ssc-ai"]
+	path = ssc-ai
+	url = https://github.com/Ayasouk/ssc-ai.git
